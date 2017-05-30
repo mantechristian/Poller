@@ -49,4 +49,4 @@ Poller User Profile
 
 
 Search User
-![Poller Search](https://github.com/mantechristian/Poller/blob/master/poller_barchart.png)
+![Poller Search](https://github.com/mantechristian/Poller/blob/master/poller_search.png)
